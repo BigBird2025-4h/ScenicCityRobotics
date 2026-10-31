@@ -1,1 +1,0 @@
-# Scenic City Robotics website
